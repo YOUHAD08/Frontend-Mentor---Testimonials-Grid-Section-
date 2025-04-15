@@ -122,4 +122,13 @@ body {
         justify-content: center;   
 
     }
+    #testimonials .container .row .item3{
+        order: 5;
+    }
+    #testimonials .container .row .item4{
+        order: 3;
+    }
+    #testimonials .container .row .item5{
+        order: 3;
+    }
 }

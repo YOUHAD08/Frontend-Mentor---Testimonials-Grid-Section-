@@ -16,6 +16,7 @@
     padding: 2rem;
     border-radius: 1rem;
     box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.3);
+    
 }
 body {
     font-family: 'Barlow Semi Condensed', sans-serif;
@@ -111,4 +112,18 @@ body {
 .item >p{
     font-weight: 500;
     line-height: 1.5;
+}
+
+@media (max-width: 800px) {
+    .item1>img{
+        display: none;
+    }
+    #testimonials .container .row{
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+        align-items: center;    
+        justify-content: center;   
+
+    }
 }

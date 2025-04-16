@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-View](Project-Views\Desktop-View.png)  
+![Desktop-View](Project-Views/Desktop-View.png)  
 
-![Mobile-View](Project-Views\Mobile-View.png)
+![Mobile-View](Project-Views/Mobile-View.png)
 
 
 ### Links

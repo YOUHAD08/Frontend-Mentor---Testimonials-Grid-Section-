@@ -53,6 +53,6 @@ My next goal is to build a full one-page web suite from scratch. This will help 
 
 ## Author
 
-- Website - [Youhad Ayoub](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Youhad Ayoub](https://github.com/YOUHAD08/)
+- Frontend Mentor - [@YOUHAD08](https://www.frontendmentor.io/profile/YOUHAD08)
+- Twitter - [@YouhadAyoub](https://x.com/YouhadAyoub)
